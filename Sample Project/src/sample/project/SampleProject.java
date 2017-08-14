@@ -19,6 +19,7 @@ public class SampleProject {
         
         System.out.println("Welcomeo Git/Github lab!");
 		System.out.println("buhahahggahhaha");
+	    	System.out.println("The secon dchane");
     }
     
 }
